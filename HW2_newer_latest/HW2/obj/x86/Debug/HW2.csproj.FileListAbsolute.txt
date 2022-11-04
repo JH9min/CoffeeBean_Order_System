@@ -1,0 +1,129 @@
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\bin\x86\Debug\HW2.exe.config
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\bin\x86\Debug\HW2.exe
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\bin\x86\Debug\HW2.pdb
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.Form1.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.Forms.FormAccount.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.Forms.FormOrderMenu.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.Forms.FormShoppingCart.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.Properties.Resources.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.exe
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.pdb
+C:\Users\Joe Houng\Desktop\change\C#\HW2\HW2\obj\x86\Debug\HW2.Forms.FormUser.resources
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\bin\x86\Debug\HW2.exe.config
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\bin\x86\Debug\HW2.exe
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\bin\x86\Debug\HW2.pdb
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.Form1.resources
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.Forms.FormAccount.resources
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.Forms.FormOrderMenu.resources
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.Forms.FormShoppingCart.resources
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.Forms.FormUser.resources
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.Properties.Resources.resources
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.exe
+C:\Users\iSpan\Downloads\HW2-20221017T010249Z-001\HW2\HW2\obj\x86\Debug\HW2.pdb
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\bin\x86\Debug\HW2.exe.config
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\bin\x86\Debug\HW2.exe
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\bin\x86\Debug\HW2.pdb
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.g.resources
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Form1.resources
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Forms.FormAccount.resources
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Forms.FormOrderMenu.resources
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Forms.FormShoppingCart.resources
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Properties.Resources.resources
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.exe
+C:\Users\iSpan\Desktop\HW2-黃久銘\HW2\obj\x86\Debug\HW2.pdb
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\bin\x86\Debug\HW2.exe.config
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\bin\x86\Debug\HW2.exe
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\bin\x86\Debug\HW2.pdb
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.g.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Form1.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Forms.FormAccount.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Forms.FormOrderMenu.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Forms.FormShoppingCart.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Properties.Resources.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.exe
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.pdb
+C:\Users\Joe Houng\Desktop\change\C#\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Forms.FormManagement.resources
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\obj\x86\Debug\HW2.g.resources
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\obj\x86\Debug\HW2.exe
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\obj\x86\Debug\HW2.pdb
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\bin\x86\Debug\HW2.exe.config
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\bin\x86\Debug\HW2.exe
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\bin\x86\Debug\HW2.pdb
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Forms.FormAccount.resources
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Forms.FormManageOrder.resources
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Forms.FormShoppingCart.resources
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\obj\x86\Debug\HW2.Properties.Resources.resources
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\iSpan\Downloads\HW2-黃久銘\HW2\obj\x86\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.exe
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.pdb
+C:\Users\iSpan\Downloads\HW2_new\HW2\bin\x86\Debug\HW2.exe.config
+C:\Users\iSpan\Downloads\HW2_new\HW2\bin\x86\Debug\HW2.exe
+C:\Users\iSpan\Downloads\HW2_new\HW2\bin\x86\Debug\HW2.pdb
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.Form1.resources
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormAccount.resources
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormManageOrder.resources
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormShoppingCart.resources
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.Properties.Resources.resources
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormManagement.resources
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormOrderMenu.resources
+C:\Users\iSpan\Downloads\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormUser.resources
+C:\Users\iSpan\Desktop\HW2_new\HW2\bin\x86\Debug\HW2.exe.config
+C:\Users\iSpan\Desktop\HW2_new\HW2\bin\x86\Debug\HW2.exe
+C:\Users\iSpan\Desktop\HW2_new\HW2\bin\x86\Debug\HW2.pdb
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.Form1.resources
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormAccount.resources
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormManagement.resources
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormManageOrder.resources
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormOrderMenu.resources
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormShoppingCart.resources
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormUser.resources
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.Properties.Resources.resources
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.exe
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.pdb
+C:\Users\iSpan\Desktop\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormMenu.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\bin\x86\Debug\HW2.exe.config
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\bin\x86\Debug\HW2.exe
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\bin\x86\Debug\HW2.pdb
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.csproj.AssemblyReference.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.Form1.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormAccount.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormManagement.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormManageOrder.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormMenu.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormShoppingCart.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormUser.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.Properties.Resources.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.csproj.GenerateResource.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.csproj.CoreCompileInputs.cache
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.exe
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.pdb
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormEditUser.resources
+C:\Users\Joe Houng\Desktop\change\C#\HW2_new\HW2\obj\x86\Debug\HW2.Forms.FormManageMember.resources
