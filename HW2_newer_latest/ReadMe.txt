@@ -1,15 +1,3 @@
-Home:
-主頁面，切換到別的子from時上方titlte bar會出現返回home按鈕
+* The path of images in FormMenu.cs & FormManagement.cs should be placed by your own path.
+* The name of sql connection in Globalvarious.cs should be place by your own one.
 
-Shop:
-購物頁面，如果未登入需要輸入訪客用名，限制英數字。
-每項產品點擊送出如果沒選數量或超過10或亂填，都算一份。
-
-Cart:
-購物車頁面，可以點擊單項刪除或全部刪除，沒登入跟有登入的小提醒不一樣。
-會員有折價。
-
-Account:
-根據是否已登入會切換不同頁面，已登入的話是會員頁面，沒登的話是登入頁面。
-會員頁面列出用戶名跟折價資訊，可以登出。
-登入頁面可以選擇註冊或登入，用戶名限制英數字。
